@@ -5,4 +5,4 @@
 ## Filtering System for Movies
 
 # About
-This code was developed by [Michael Valan].
+This code was developed by Michael Valan.
